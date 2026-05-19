@@ -51,8 +51,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RealMeliodas&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=en" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RealMeliodas&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&locale=en" height="150" alt="Top Languages" />
+  <img src="https://readmestats.999857.xyz/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&username=RealMeliodas" height="150" alt="GitHub Stats" />
+  <img src="https://readmestats.999857.xyz/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&username=RealMeliodas" height="150" alt="Top Languages" />
 </p>
 
 ### 🎵 Recently Played
