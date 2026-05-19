@@ -5,8 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  Vivo in Italia
 * ✉️  Puoi contattarmi a [christian.melini@meliodas.it](mailto:christian.melini@meliodas.it)
-* 🚀  Ultimo progetto: [M365 License Dashboard](https://meliodas.it/projects/m365-license-dashboard)
 * 🌐  Portfolio: [meliodas.it](https://meliodas.it)
+* 🚀  Ultimo progetto: [M365 License Dashboard](https://meliodas.it/projects/m365-license-dashboard)
 * 🤝  Aperto a collaborazioni Open Source
 
 <a href="https://www.github.com/RealMeliodas" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/RealMeliodas?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
