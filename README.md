@@ -14,18 +14,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" title="Azure" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="PowerShell" title="PowerShell" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-sharepoint.svg" height="40" alt="SharePoint" title="SharePoint" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-teams.svg" height="40" alt="Teams" title="Teams" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-onedrive.svg" height="40" alt="OneDrive" title="OneDrive" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-sharepoint.svg" height="40" alt="SharePoint" title="SharePoint" />
+  <img src="https://images.seeklogo.com/logo-png/52/1/microsoft-entra-id-logo-png_seeklogo-523357.png" height="40" alt="Entra ID" title="Entra ID" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-exchange.svg" height="40" alt="Exchange Online" title="Exchange Online" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-intune.svg" height="40" alt="Intune" title="Intune" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-defender.svg" height="40" alt="Defender" title="Defender" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-onedrive.svg" height="40" alt="OneDrive" title="OneDrive" />
   <img src="https://vectorseek.com/wp-content/uploads/2023/11/Microsoft-Power-Platform-Logo-Vector.svg-.png" height="40" alt="Power Platform" title="Power Platform" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" title="Power BI" />
-  <img src="https://images.seeklogo.com/logo-png/52/1/microsoft-entra-id-logo-png_seeklogo-523357.png" height="40" alt="Entra ID" title="Entra ID" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-defender.svg" height="40" alt="Defender" title="Defender" />
+  <img src="https://images.seeklogo.com/logo-png/50/1/microsoft-purview-logo-png_seeklogo-502814.png" height="40" alt="Purview" title="Purview" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-intune.svg" height="40" alt="Intune" title="Intune" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-azure.svg" height="40" alt="Azure" title="Azure" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/azure-active-directory-logo-png-transparent.png" height="40" alt="Active Directory" title="Active Directory" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powershell.svg" height="40" alt="PowerShell" title="PowerShell" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-power-automate.svg" height="40" alt="Power Automate" title="Power Automate" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" height="40" alt="Python" title="Python" />
 </p>
 
 ### Socials
@@ -48,6 +51,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### 📊 GitHub Stats
 
 <p align="left">
+  <img src="https://readmestats.999857.xyz/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&username=RealMeliodas" height="150" alt="GitHub Stats" />
   <img src="https://readmestats.999857.xyz/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&username=RealMeliodas" height="150" alt="Top Languages" />
 </p>
 
